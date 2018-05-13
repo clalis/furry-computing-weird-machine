@@ -1,2 +1,3 @@
 # furry-computing-weird-machine
-test repository
+**test repository**
+I'm learning how to use "GitHub".
